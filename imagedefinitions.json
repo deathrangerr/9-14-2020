@@ -1,6 +1,6 @@
 [
   {
-    "name": "codepipeline-sample",
+    "name": "cicd-pipeline",
     "imageUri": "261891914465.dkr.ecr.us-east-1.amazonaws.com/codepipeline-sample:latest"
   }
 ]
