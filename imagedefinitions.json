@@ -1,6 +1,6 @@
 [
   {
-    "name": "//container name",
-    "imageUri": "//ecr repo name"
+    "name": "codepipeline-sample",
+    "imageUri": "261891914465.dkr.ecr.us-east-1.amazonaws.com/codepipeline-sample:latest"
   }
 ]
