@@ -5,7 +5,7 @@ RUN apt-get update && \
  apt-get -y install apache2
 
 # Install apache and write hello world message
-RUN echo 'Hello World! This was ecs codepipeline webapp try 107th' > /var/www/html/index.html
+RUN echo 'Hello World! please wear mask and maintain social distancing and enjoyyy' > /var/www/html/index.html
 
 # Configure apache
 RUN echo '. /etc/apache2/envvars' > /root/run_apache.sh && \
