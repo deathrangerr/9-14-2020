@@ -1,6 +1,6 @@
 [
   {
-    "name": "webapp",
-    "imageUri": "261891914465.dkr.ecr.us-east-1.amazonaws.com/sample123:latest"
+    "name": "cicdtask",
+    "imageUri": "261891914465.dkr.ecr.us-east-1.amazonaws.com/codepipeline-sample:latest"
   }
 ]
